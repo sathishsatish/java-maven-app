@@ -90,7 +90,7 @@
     </snapshotRepository>
     <repository>
       <id>java-maven-app-release</id>
-      <url>http://18.130.215.104:8081/repository/java-maven-app-release/</url>
+      <url>http://18.130.215.104:8081/repository/java-maven-app-releases/</url>
     </repository>
   </distributionManagement>
 </project>
