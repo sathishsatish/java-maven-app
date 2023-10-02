@@ -89,8 +89,8 @@
       <url>http://18.130.215.104:8081/repository/java-maven-app-snapshots/</url>
     </snapshotRepository>
     <repository>
-      <id>java-maven-app-release</id>
-      <url>http://18.130.215.104:8081/repository/java-maven-app-releases/</url>
+      <id>java-maven-app-releases</id>
+      <url>http://18.130.215.104:8081/#browse/browse:java-maven-app-releases/</url>
     </repository>
   </distributionManagement>
 </project>
