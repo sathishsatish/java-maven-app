@@ -78,18 +78,18 @@
   </build>
  <repositories>
     <repository>
-      <id>java-maven-app-group</id>
+      <id>Maven_Build-group</id>
       <url>http://172.31.29.97:8081/repository/Maven_Build-group/</url>
     </repository>
   </repositories>
 
     <distributionManagement>
     <snapshotRepository>
-      <id>java-maven-app-snapshot</id>
-      <url>http://172.31.29.97:8081/repository/Maven_Build-snapshot/</url>
+      <id>Maven_Build-SNAPSHOTS</id>
+      <url>http://172.31.29.97:8081/repository/Maven_Build-SNAPSHOTS/</url>
     </snapshotRepository>
     <repository>
-      <id>java-maven-app-release</id>
+      <id>Maven_Build-release</id>
       <url>http://172.31.29.97:8081/repository/Maven_Build-release/</url>
     </repository>
   </distributionManagement>
